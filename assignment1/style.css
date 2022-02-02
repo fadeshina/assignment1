@@ -1,0 +1,51 @@
+html{
+    background-color: burlywood;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.maroon{
+color: maroon;
+text-align: center;
+}
+
+.orange{
+    color: orangered;
+    text-align: center;
+
+}
+
+.spacing{
+    padding-left: 60px;
+}
+
+
+a{
+    text-decoration-color: orangered;
+    color: maroon;
+}
+
+#email {
+    margin-left: 30px;
+}
+
+p{
+    font-weight: 700;
+}
+
+.half1 {
+    width: 50%;
+    float:left;
+    padding-left: 60px;
+    margin-bottom: 20px;;
+}
+.half2{
+    width:45%;
+    margin:0px;
+    float: right;
+    margin-bottom:900px ;
+    margin-top: 200px;
+}
